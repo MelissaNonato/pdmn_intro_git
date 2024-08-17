@@ -2,7 +2,8 @@ import calculador
 def main():
     a = 2
     b = 2
-    soma = calculador.somar(a,b)
+    c = 3
+    soma = calculador.somar(a,b,c)
     print(soma)
 
 main()
